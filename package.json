@@ -1,0 +1,21 @@
+{
+  "name": "kotlin-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon node/main.js"
+  },
+  "keywords": [
+    "Kotlin",
+    "node",
+    "js"
+  ],
+  "author": "Rehan Kodekar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "kotlin": "^1.1.60",
+    "nodemon": "^1.12.1"
+  }
+}
